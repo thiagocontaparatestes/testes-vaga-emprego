@@ -4,7 +4,7 @@ Construa uma aplicação que fará uma simulação de investimento utilizando ju
 
 ## Primeira tela
 
-A primeira tela deve ter um formulário com os campos: `nome`, `mensalidade`, `tempo de contribuição` e um botão `simular`.
+A primeira tela deve ter um formulário com os campos: `nome`, `mensalidade`, `taxa de juros`, `tempo de contribuição` e um botão `simular`.
 
 Ao clicar em simular, deve ser feito um POST na api [http://api.mathjs.org/v4/](http://api.mathjs.org/).
 
@@ -30,7 +30,7 @@ A segunda tela deverá exibir um texto com as informaçoes dos campos de nome, m
 
 **Exemplo:**
 
-Olá **[nome]**, juntando **R$[mensalidade]** todo mês, você terá **R$[resultado da request]** em **[tempo]**.
+Olá **[nome]**, investindo **R$[mensalidade]** todo mês, você terá **R$[resultado da request]** em **[tempo]** sob uma taxa de juros de **[taxa]** ao mês.
 
 ## Wireframe de exemplo
 
