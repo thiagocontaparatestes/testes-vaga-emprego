@@ -34,7 +34,7 @@ Olá **[nome]**, juntando **R$[mensalidade]** todo mês, você terá **R$[result
 
 ## Wireframe de exemplo
 
-![alt text](wireframe.png)
+![wireframe](https://raw.githubusercontent.com/ciclic/test-frontend/master/wireframe.png)
 
 ## Outras informações
 
